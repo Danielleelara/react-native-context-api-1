@@ -74,12 +74,14 @@ export const estilos = (tema)=>{
     paddingVertical: 16,
     borderRadius: 10,
     backgroundColor: tema.botao,
-  },
-  botaoTexto: {
+    textAlign: 'center',
+},
+botaoTexto: {
     fontSize: 18,
     fontWeight: 'bold',
     color: tema.preto,
-    textAlign: 'center'
-  }
+    textAlign: 'center',
+}
+
 });
 }
