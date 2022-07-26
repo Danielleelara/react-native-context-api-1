@@ -81,7 +81,14 @@ botaoTexto: {
     fontWeight: 'bold',
     color: tema.preto,
     textAlign: 'center',
+},
+texto: {
+  fontSize: 18,
+  fontWeight: 'bold',
+  color: 'white',
+  textAlign: 'center',
 }
+
 
 });
 }
